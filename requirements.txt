@@ -1,0 +1,16 @@
+ pip install git+https://github.com/openai/whisper.git
+
+pip install transformers datasets torchaudio
+
+pip install streamlit  llama-index-vector-stores-qdrant llama-index-llms-sambanovasystems sseclient-py
+
+pip install langchain
+
+transformers
+langchain
+streamlit
+torchaudio
+datasets
+qdrant-client
+sentence-transformers
+langchain-huggingface
